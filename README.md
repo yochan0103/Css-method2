@@ -1,2 +1,2 @@
-# Css-method2
+# css_method
 Created with CodeSandbox
